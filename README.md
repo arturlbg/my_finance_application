@@ -1,1 +1,1 @@
-# my_finance_front
+# My Finance Application
